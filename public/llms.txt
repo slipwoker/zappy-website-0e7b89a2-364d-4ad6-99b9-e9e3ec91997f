@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות ציוד לכלבים שמבינה מה הכלב שלך באמת צריך. מוצרים איכותיים, מחירים משתלמים וכל הציוד במקום אחד. גלה את העולם של M&amp;H DOGS עוד היום!
+
+### ציוד מומלץ
+https://example.com/equipment-highlights
+בחרנו עבורך את הציוד המומלץ ביותר לכלבים — מוצרים שנבדקו, אהובים ומוכחים. קנה ציוד לכלבים אונליין בקלות ובטחון, ישירות מהאוסף המובחר שלנו.
+
+### אודות
+https://example.com/about
+M&amp;H DOGS נולדה מתוך תשוקה אמיתית לכלבים ולבעליהם. גלה מי אנחנו, מה מניע אותנו ולמה אלפי בעלי כלבים בישראל בוחרים בנו כחנות הציוד האהובה עליהם.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על ציוד לכלבים? רוצים המלצה אישית? צוות M&amp;H DOGS זמין עבורכם ושמח לעזור. צרו קשר עכשיו ונחזור אליכם במהירות עם כל התשובות שאתם צריכים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - M&H DOGS
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - M&H DOGS
+
+### Category
+https://example.com/category/:slug
+מוצרים - M&H DOGS
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
